@@ -471,8 +471,16 @@
         "sha": "2b8e4299581f55f02c015f339b6b781e3aede965"
       },
       "homepage": "https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=plugin-marketplace&utm_content=listing",
-      "keywords": ["fxmacrodata", "fxmacrodata mcp", "fx macro data"],
-      "domains": ["fxmacrodata.com", "api.fxmacrodata.com", "mcp.fxmacrodata.com"]
+      "keywords": [
+        "fxmacrodata",
+        "fxmacrodata mcp",
+        "fx macro data"
+      ],
+      "domains": [
+        "fxmacrodata.com",
+        "api.fxmacrodata.com",
+        "mcp.fxmacrodata.com"
+      ]
     }
   ]
 }
